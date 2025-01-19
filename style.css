@@ -1,1 +1,11 @@
-
+:root {
+   --hover-link:#2196F3;
+   --primary-text:#757575;
+   --background-secondary:#2F303A;
+   --secondary-title:#FFFFFF;
+   --background-button: #2196F3;
+   --text-button:#FFFFFF;
+   --primary-title:#212121;
+   --secondary-text:#FFFFFF;
+   --third-title:#2196F3;
+}
